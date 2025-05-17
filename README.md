@@ -39,6 +39,3 @@ Smart Notes API is a secure, cloud-based backend application that allows users t
 - Gunicorn + Nginx (optional for deployment)
 
 ---
-
-## 📂 Project Structure
-
